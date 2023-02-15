@@ -1,0 +1,23 @@
+{
+  "name": "scrollend",
+  "version": "0.0.3",
+  "description": "hijack scrollend",
+  "main": "scrollend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xovel/scrollend.git"
+  },
+  "keywords": [
+    "scroll",
+    "scrollend"
+  ],
+  "author": "xovel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xovel/scrollend/issues"
+  },
+  "homepage": "https://github.com/xovel/scrollend#readme"
+}
